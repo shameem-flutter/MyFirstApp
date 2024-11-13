@@ -1,7 +1,7 @@
 import 'dart:ffi';
 import 'dart:io';
 import 'dart:math';
-
+// password generator
 void main() {
   const String lowercase = 'abcdefghijklmnopqrstuvwxyz';
   const String uppercase = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
